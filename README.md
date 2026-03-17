@@ -31,4 +31,4 @@ Coming soon, still got to workout a base model
 
 ## Check out my notion for what needs doing
 
-[AerodomeCam notion page](https://www.notion.so/326cb5690f5a80c5a2b3c53562da1440?v=326cb5690f5a804db669000c457675c2&source=copy_link) 
+[AerodomeCam notion page](https://www.notion.so/326cb5690f5a80c5a2b3c53562da1440?v=326cb5690f5a804db669000c457675c2&source=copy_link)
